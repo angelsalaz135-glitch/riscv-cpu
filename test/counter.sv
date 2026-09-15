@@ -8,3 +8,5 @@ module counter (
         else     count <= count + 1;
     end
 endmodule
+
+// Counter file for regfile (1st test)
