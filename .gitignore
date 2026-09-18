@@ -1,2 +1,9 @@
+# Generated project output
+/build/
+
+# Default Verilator output directories, at any depth
 obj_dir/
+
+# Generated waveforms
 *.vcd
+*.fst
